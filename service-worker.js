@@ -4,7 +4,7 @@
 // ⚠️ 所有日志统一使用 self.console，避免静态检查自动替换为 import
 // ✅ 支持 Windows 桌面、安卓手机安装，离线可用
 
-var CACHE_NAME = 'my-todo-pwa-v8';
+var CACHE_NAME = 'my-todo-pwa-v9';
 var PRECACHE_URLS = [
   './',
   './index.html',
